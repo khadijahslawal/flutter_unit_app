@@ -1,16 +1,10 @@
-# flutter_navigations
+## Unit Converter App
 
-A new Flutter project.
+This repository features a unit converter mobile application made with flutter.
+Functionality and features includes:
+- In app static conversion from different units
+- Responsive design
+- Backdrop Menu
+- Currecy conversion from an API
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
